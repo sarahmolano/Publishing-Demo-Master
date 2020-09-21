@@ -1,0 +1,35 @@
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Roboto', sans-serif;
+  background-color: #CCA9FF
+}
+
+.background-text-box{
+  /* light purple */
+  background-color: #E6D4FF
+}
+
+.caption{
+  background-color: gray
+}
+
+h1{
+  font-size: 20px;
+}
+p{
+  padding-top:5px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:5px;
+}
+li{
+  padding:5,10,5,10;
+}
+img{
+  width: 80%
+  height: 80%
+}
+h6{
+  background-color: #C3E3FF;
+}
