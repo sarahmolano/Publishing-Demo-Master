@@ -1,35 +1,37 @@
 body{
   margin-left: 20%;
   margin-right: 20%;
-  font-family: 'Roboto', sans-serif;
-  background-color: #CCA9FF
+  font-family: 'Georgia', sans-serif;
+  background-color: pink
 }
 
-.background-text-box{
-  /* light purple */
-  background-color: #E6D4FF
-}
 
-.caption{
-  background-color: gray
-}
 
 h1{
   font-size: 20px;
 }
-p{
-  padding-top:5px;
-  padding-left:10px;
-  padding-right:10px;
-  padding-bottom:5px;
+
+figcaption{
+  background-color: #BEBEBE;
 }
+
+.mainbody{
+  background-color: #EB94B9;
+  padding:10px;
+  font-size:1em;
+}
+
+
+
+
 li{
   padding:5,10,5,10;
+  font-size:1em;
 }
 img{
-  width: 80%
-  height: 80%
+  width: 80%;
+  height: 80%;
 }
 h6{
-  background-color: #C3E3FF;
+  background-color: #BEBEBE;
 }
